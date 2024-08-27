@@ -6,8 +6,8 @@ La To-Do List App est une application React permettant de gérer des tâches. El
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Obed67/To-do-List)
-- Live Site URL: [Add live site URL here](https://obed-to-do-list.vercel.app/)
+- Solution URL: [Code Source sur Github](https://github.com/Obed67/To-do-List)
+- Live Site URL: [Live de la plateforme](https://obed-to-do-list.vercel.app/)
 
 
 ## Fonctionnalités
